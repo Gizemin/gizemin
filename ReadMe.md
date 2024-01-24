@@ -1,6 +1,6 @@
 ### About Me:
 🌱 I’m currently learning<br>
-🔭Junior Java Developer
+🔭Junior Java Developer<br>
 📫 How to reach me gizemkuscuoglu13@gmail.com
 
 
