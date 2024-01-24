@@ -1,5 +1,7 @@
 ### About Me:
-🌱 I’m currently learning<br>🔭Junior Java Developer
+🌱 I’m currently learning<br>
+🔭Junior Java Developer
+📫 How to reach me gizemkuscuoglu13@gmail.com
 
 
 ### Socials:
@@ -11,5 +13,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemin&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-a
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
